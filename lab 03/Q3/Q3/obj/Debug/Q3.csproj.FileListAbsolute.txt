@@ -1,0 +1,8 @@
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\bin\Debug\Q3.exe.config
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\bin\Debug\Q3.exe
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\bin\Debug\Q3.pdb
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\obj\Debug\Q3.csproj.SuggestedBindingRedirects.cache
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\obj\Debug\Q3.exe
+F:\Documents\NSBM\Year 01\Sem 02\C#\Labs\03\Q3\Q3\obj\Debug\Q3.pdb
